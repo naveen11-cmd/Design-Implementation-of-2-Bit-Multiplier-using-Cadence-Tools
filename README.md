@@ -61,16 +61,17 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 ![Screenshot 2025-05-10 161100](https://github.com/user-attachments/assets/bfaa7af0-6785-46e4-b434-87d677af5807)
 
 ### Schematic of 2-Bit Multiplier:
-![Screenshot 2025-05-10 162446](https://github.com/user-attachments/assets/5b4b78a1-5812-4789-85ec-60324c2b5968)
+<img width="1920" height="1080" alt="Screenshot 2025-10-29 171730" src="https://github.com/user-attachments/assets/84127b15-04f4-4182-ad5c-8fcb1376cd5f" />
+
 
 ## Output
 ### Transient Analysis Output:
-![Screenshot 2025-05-15 153033](https://github.com/user-attachments/assets/2c94f184-525c-49ba-8733-27c982f0dffa)
+<img width="1920" height="1080" alt="Screenshot 2025-10-29 171752" src="https://github.com/user-attachments/assets/76ce9cee-828c-41f1-a038-bd24b52d2b75" />
 
 ![image](https://github.com/user-attachments/assets/55864d90-af08-4836-bc90-4cbba80573f8)
 
 
-![Screenshot 2025-05-15 152538](https://github.com/user-attachments/assets/694df39e-3505-4cf1-ae99-21bc428300b7)
+![WhatsApp Image 2025-10-29 at 15 26 02_08e16717](https://github.com/user-attachments/assets/6d6a8c63-f9d2-4e7f-91a0-f7a141df94dd)
 
 Run Time : 200ns
 
